@@ -67,7 +67,7 @@
     "MENU.EDIT.REDO": "Gör om",
     "MENU.HELP": "Hjälp",
     "MENU.HELP.ABOUT": "Om mBlock",
-    "MENU.HELP.FEEDBACK": "Återkoppling",
+    "MENU.HELP.FEEDBACK": "Feedback",
     "MENU.HELP.UPDATER.CHECKER": "Leta efter uppdateringar",
     "MENU.FIRMWARE": "Uppgradera Firmware",
     "MENU.LANGUAGE": "Språk",
@@ -392,7 +392,7 @@
     "UPDATE.FACTORY.DATA.LATEST": "online firmware"
   },
   "mblock5-i18n/feedback": {
-    "FEEDBACK.MODAL.TITLE": "Återkoppling",
+    "FEEDBACK.MODAL.TITLE": "Feedback",
     "FEEDBACK.FORM.PROFESSION": "Du är en",
     "FEEDBACK.PROFESSION.LIST": [
       "Lärare",
