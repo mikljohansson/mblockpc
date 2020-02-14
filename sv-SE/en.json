@@ -195,7 +195,7 @@
     "UPDATE.PASSWORD.CURRENT": "Nuvarande lösenord",
     "UPDATE.PASSWORD.NEW": "Nytt lösenord",
     "USER.UPDATE.SUCCESS.MSG": "Lösenordet har uppdaterats!",
-    "USER.UPDATE.FAIL.MSG": "Misslyckades att uppdatera lösenord!",
+    "USER.UPDATE.FAIL.MSG": "Kunde inte uppdatera lösenordet!",
     "REGISTER.AGREE": "Genom att logga in så accepterar du",
     "PROTOCOL.TEXT": "Användningsvillkor",
     "NO.CODE": "Ingen bekräftelsekod mottagen?",
